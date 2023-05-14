@@ -1,0 +1,18 @@
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\bin\Debug\net7.0-windows\Apriori Algorith Implementation.exe
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\bin\Debug\net7.0-windows\Apriori Algorith Implementation.deps.json
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\bin\Debug\net7.0-windows\Apriori Algorith Implementation.runtimeconfig.json
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\bin\Debug\net7.0-windows\Apriori Algorith Implementation.dll
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\bin\Debug\net7.0-windows\Apriori Algorith Implementation.pdb
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.csproj.AssemblyReference.cache
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori_Algorith_Implementation.Form1.resources
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.csproj.GenerateResource.cache
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.AssemblyInfoInputs.cache
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.AssemblyInfo.cs
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.csproj.CoreCompileInputs.cache
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.dll
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\refint\Apriori Algorith Implementation.dll
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.pdb
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori Algorith Implementation.genruntimeconfig.cache
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\ref\Apriori Algorith Implementation.dll
+D:\Programming\Tagarob\Apriori Algorith Implementation\Apriori Algorith Implementation\obj\Debug\net7.0-windows\Apriori_Algorith_Implementation.Form2.resources
